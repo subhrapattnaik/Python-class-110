@@ -1,0 +1,36 @@
+
+Recap :
+-------
+We have learned that normal distributions can be seen as probability
+distributions.
+
+Mean = Median = Mode in a normal distribution and corresponds to 
+the peak value
+
+Normal distribution is symmetric around the peak value.
+
+68% of all data lie within one standard deviation of the mean
+95% of all the data lie within two standard deviation of the mean
+99% of all the data lie within three standard deviation of the mean
+-------------------------------------------------------------
+
+We have discovered that most of the
+data in the natural world follows a
+normal distribution. But there are
+some data sets which do not follow a
+normal distribution. We're going to
+explore and analyze this kind of data
+in today's class.
+---------------------------------------------------------
+
+
+
+
+Data sampling is a statistical analysis technique used to select,
+ manipulate and analyze a representative subset of data points to 
+ identify patterns and trends in the larger data set being examined.
+
+
+
+
+
